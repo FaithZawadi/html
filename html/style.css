@@ -1,0 +1,68 @@
+.form{
+    background-color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+    text-align: left;
+    font-family: Algerian;
+}
+#one{
+    width: 80%;
+    margin: 15px;
+    padding: 15px;
+}
+#two{
+    background-color: red;
+    width: 20%;
+    padding: 5px;
+    margin-top: 5px;
+}
+.navstyle{
+    list-style-type: none;
+    text-align: center;
+    background-color: greenyellow;
+    overflow: hidden;
+    margin: 4px;
+    padding: 4px;
+}
+#three{
+    animation-duration: inherit;
+    animation-iteration-count: infinite;
+}
+.fl{
+    float: left;
+}
+.linkstyle{
+    display: block;
+    color: black;
+    alignment: right;
+    padding: 10px;
+    background-color: red;
+}
+.fr{
+    float: right;
+}
+.welcstyle{
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+.sinput{
+
+}
+.img{
+    border: 3px solid #ddd;
+    -webkit-box-reflect: right;
+    border-radius:4px;
+    padding: 4px;
+    width: 460px;
+}
+.table{
+    width: 1000px;
+    height: 900px;
+}
+.contact{
+    background-color: greenyellow;
+    padding: 10px;
+    text-emphasis-style: circle;
+}
